@@ -48,5 +48,5 @@ catch (caughtError) {
     }else{
          sh "echo 'Build SUCCESSFUL'"
     }
-   
+}
 }
